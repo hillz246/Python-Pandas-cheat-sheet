@@ -8,7 +8,7 @@ Python Pandas cheat sheet for data analysis
     df.to_csv('output.csv', index=False): Writes DataFrame to a CSV file.
     df.to_excel('output.xlsx', index=False): Writes DataFrame to an Excel file.
 
-**Data Exploratio**
+**Data Exploration**
 
     df.head(n): Displays the first n rows.
     df.tail(n): Displays the last n rows.
